@@ -1,0 +1,22 @@
+{
+  "name": "piwin-session-importer",
+  "version": "0.1.0",
+  "description": "Session importer extension for piwin to import transcripts from Claude Code, Cursor, Codex, and OpenCode",
+  "main": "index.ts",
+  "type": "module",
+  "license": "MIT",
+  "author": "mimimaster",
+  "homepage": "https://github.com/mimimaster/piwin-session-importer",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mimimaster/piwin-session-importer.git"
+  },
+  "keywords": [
+    "piwin",
+    "extension",
+    "session-import",
+    "claude-code",
+    "cursor",
+    "codex"
+  ]
+}
